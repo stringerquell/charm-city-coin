@@ -1,6 +1,6 @@
 # The Charm City Coin
 
-**A social media brand about business in Baltimore.** It started as Charm City B2B and was renamed on Oct 4, 2026. Same mission, same team, same voice. It can grow into whatever comes next.
+**A media brand about business in Baltimore.** It started as Charm City B2B and was renamed on Oct 4, 2026. Same mission, same team, same voice. It can grow into whatever comes next.
 
 ## What we are
 **TBPN for Baltimore business.** TBPN covers the tech industry every day with obsession and commitment. We cover Baltimore business the same way: every deal, opening, contract, filing, event, and founder story, from the corner store to the $40M contractor. Nothing is too small to cover, and nothing gets covered without receipts.
