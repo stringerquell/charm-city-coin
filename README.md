@@ -1,6 +1,6 @@
 # The Charm City Coin
 
-The playbook and agent team behind **The Charm City Coin**, a social media brand about business in Baltimore. TBPN for Baltimore business. See `BRAND.md`.
+The playbook and agent team behind **The Charm City Coin**, a media brand about business in Baltimore. TBPN for Baltimore business. See `BRAND.md`.
 
 This repo is the one place every AI tool reads from. Claude, Grok, a Claude Project, a scheduled routine: point any of them here and they get the same instructions, the same rules, and the same references.
 
